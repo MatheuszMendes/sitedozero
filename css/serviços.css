@@ -1,0 +1,28 @@
+.pagina__container {
+    display: block;
+    flex-direction:row;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo__container {
+    font-weight: 100;
+    margin-top: 7%;
+}
+
+.primeiro__serviço {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.segundo__serviço {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto__serviço {
+    margin: 2% 10% 2% 10%;
+}
